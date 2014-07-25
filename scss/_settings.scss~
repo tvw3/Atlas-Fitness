@@ -1233,13 +1233,13 @@
 // $topbar-dropdown-label-bg: #333;
 
 // Top menu icon styles
-// $topbar-menu-link-transform: uppercase;
-// $topbar-menu-link-font-size: rem-calc(13);
-// $topbar-menu-link-weight: $font-weight-bold;
-// $topbar-menu-link-color: #E6CC80;
-//$topbar-menu-icon-color: #E6CC80;
-// $topbar-menu-link-color-toggled: #888;
-// $topbar-menu-icon-color-toggled: #888;
+ $topbar-menu-link-transform: uppercase;
+$topbar-menu-link-font-size: rem-calc(13);
+ //$topbar-menu-link-weight: $font-weight-bold;
+ $topbar-menu-link-color: #E6CC80;
+$topbar-menu-icon-color: #E6CC80;
+ $topbar-menu-link-color-toggled: #888;
+ $topbar-menu-icon-color-toggled: #888;
 
 // Transitions and breakpoint styles
 // $topbar-transition-speed: 300ms;

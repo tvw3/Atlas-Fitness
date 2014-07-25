@@ -38,7 +38,7 @@
       <div class="row" style="margin-top: 20px;">
         <div class="large-4 columns">
             <ul class="pricing-table">
-                <li class="title"  style="background:#13879D;"><h3 style="color:white;"> Fitness Only</h3></li>
+                <li class="title"  style="background:#057C93;"><h3 style="color:white;"> Fitness Only</h3></li>
                 <li class="price" style="background: #54524D; color:white;"> $30.00<span style="font-size:12px;">/mo</span></li>
                 <li class="description"> Looking for the athletic advantage? Check out what this package comes with below:</li>
                 <li class="bullet-item"> Personal Login</li>
@@ -62,7 +62,7 @@
         </div>
         <div class="large-4 columns">
             <ul class="pricing-table">
-                <li class="title" style="background:#13879D;"><h3 style="color:white;"> The Mix</h3></li>
+                <li class="title" style="background:#03677A;"><h3 style="color:white;"> The Mix</h3></li>
                 <li class="price" style="background: #54524D; color:white;"> $45.00<span style="font-size:12px;">/mo</span></li>
                 <li class="description"> Looking for the athletic advantage? Check out what this package comes with below:</li>
                 <li class="bullet-item"> All the Benefits of Nutrition/Fitness</li>

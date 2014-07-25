@@ -31,8 +31,6 @@ h2 {
 }
 .footer {
     background-color:#333333;
-}
-.footer .row p {
     color:#E6CC80;
 }
 .footer, .push {
